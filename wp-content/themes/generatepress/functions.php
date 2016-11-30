@@ -5,7 +5,7 @@
  * @package GeneratePress
  */
 
-// No direct access,please
+// No direct access, please
 if ( ! defined( 'ABSPATH' ) ) exit;
 	
 define( 'GENERATE_VERSION', '1.3.40');
