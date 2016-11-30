@@ -1,0 +1,29 @@
+/** Insert your custom CSS rules here. **/
+.widget .rchapter {
+    width: 100%; 
+    overflow: auto;
+    margin-bottom: 2px;
+}
+
+.widget .rch-desc {
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+    font-size: 14px;
+}
+
+.rch-img {
+    width: 30%;
+    float: left;
+}
+
+.header-png {
+	background: url(images/header-img.png);
+  background-size: 100%;
+  position: absolute;
+  right: 200px;
+  top: 0;
+  width: 200px;
+  height: 100%;
+  background-repeat: no-repeat;
+}
