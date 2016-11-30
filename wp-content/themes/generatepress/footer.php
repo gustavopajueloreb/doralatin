@@ -7,7 +7,7 @@
  * @package GeneratePress
  */
  
-// No direct access,please
+// No direct access, please
 if ( ! defined( 'ABSPATH' ) ) exit;
 ?>
 
